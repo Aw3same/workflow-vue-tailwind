@@ -6,8 +6,6 @@ This template is **practical** and **batteries included** but not overly complex
 
 Includes plenty of **examples and documentation** of how to do things but **minimal cruft** to delete to get you going.
 
-<!-- Forked from  [here](https://vite-ts-tailwind-starter.vercel.app/) for full docs. A [detailed changelog](./CHANGES.md) is available. This repository is also [mirrored on GitLab](https://gitlab.com/uninen/vite-ts-tailwind-starter). -->
-
 ## Features
 
 - Vue 3.2
@@ -37,10 +35,13 @@ Includes plenty of **examples and documentation** of how to do things but **mini
   - Automated unit tests
   - Automated component tests
   - Automated e2e tests
-- GitLab CI
   - Automated unit tests
   - Automated component tests
   - Automated e2e tests
+
+## Acknowledgements
+
+This repo was adapted from [Unihen](https://twitter.com/uninen)'s [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) project.
 
 ## Contributing
 

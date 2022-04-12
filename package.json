@@ -14,7 +14,10 @@
     "test:ci-components": "cypress run-ct"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.5.0",
+    "@heroicons/vue": "^1.0.6",
     "@vueuse/head": "~0.7",
+    "heroicons": "^1.0.6",
     "pinia": "~2.0",
     "vue": "~3.2",
     "vue-router": "~4.0"
